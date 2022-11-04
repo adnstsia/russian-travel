@@ -1,0 +1,59 @@
+
+@font-face {
+	src: url('../../fonts/Inter/static/Inter-Regular.ttf') format('truetype');
+  font-family: 'Inter';
+  font-weight: 400;
+}
+
+@font-face {
+	src: url('../../fonts/Inter/static/Inter-Bold.ttf') format('truetype');
+  font-family: 'Inter';
+  font-weight: 700;
+}
+
+@font-face {
+	src: url('../../fonts/Inter/static/Inter-Black.ttf') format('truetype');
+  font-family: 'Inter';
+  font-weight: 900;
+}
+
+.page {
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  min-width: 1024px;
+  max-width: 1280px;
+  margin: 0 auto;
+  background-color: #2A2C2F;
+  margin: auto;
+  padding: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+}
+
+@media screen and (max-width: 1152px) {
+  .page {
+    max-width: 1152px;
+    min-width: 1024px;
+  }
+}
+
+@media screen and (max-width: 896px) {
+  .page {
+    min-width: 768px;
+    max-width: 896px;
+  }
+}
+
+@media screen and (max-width: 544px) {
+  .page {
+    min-width: 320px;
+    max-width: 544px;
+  }
+}

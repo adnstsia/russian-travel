@@ -1,0 +1,16 @@
+.footer__author {
+  display: flex;
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 16px;
+  letter-spacing: 0em;
+  color: white;
+  margin-top: 0;
+}
+
+@media screen and (max-width: 544px) {
+  .footer__links_weather {
+    line-height: 14px;
+  }
+}

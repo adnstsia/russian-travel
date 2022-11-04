@@ -1,0 +1,21 @@
+.footer__links_weather {
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 18px;
+  letter-spacing: 0em;
+  color: white;
+  transition: .5s;
+  text-decoration: none;
+}
+
+.footer__links_weather:hover {
+  opacity: 80%;
+}
+
+@media screen and (max-width: 544px){
+  .footer__links_weather {
+    font-size: 24px;
+    line-height: 24px;
+  }
+}

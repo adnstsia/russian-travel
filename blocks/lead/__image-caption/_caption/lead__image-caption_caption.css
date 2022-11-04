@@ -1,0 +1,31 @@
+.lead__image-caption_caption {
+  font-family: 'Inter';
+  margin: auto;
+  margin-top: 4px;
+  font-size: 10px;
+  line-height: 14px;
+  font-weight: 400;
+  min-width: 984px;
+  max-width: 984px;
+  height: 14px;
+  color: white;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  justify-self: self-start;
+}
+
+@media screen and (max-width: 896px){
+  .lead__image-caption_caption {
+    padding-left: 24px;
+    box-sizing: border-box;
+  }
+}
+
+@media screen and (max-width: 544px){
+  .lead__image-caption_caption {
+    padding-left: 16px;
+    box-sizing: border-box;
+    min-width: 320px;
+    max-width: 320px;
+  }
+  }

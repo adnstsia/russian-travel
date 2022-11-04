@@ -1,0 +1,27 @@
+.lead__image-caption {
+  display: grid;
+  grid-template-columns: 1fr;
+  align-items: center;
+  overflow: hidden;
+  min-width: 984px;
+}
+
+@media screen and (max-width: 1152px) {
+  .lead__image-caption {
+    min-width: 928px;
+  }
+}
+
+@media screen and (max-width: 896px) {
+  .lead__image-caption {
+    min-width: 768px;
+  }
+}
+
+@media screen and (max-width: 544px) {
+  .lead__image-caption {
+    min-width: 320px;
+    padding-left: 4px;
+    padding-right: 4px;
+  }
+}
