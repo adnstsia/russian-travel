@@ -1,4 +1,4 @@
-.footer__links_schedule {
+.links-footer__link_weather {
   font-family: Inter;
   font-size: 16px;
   font-weight: 400;
@@ -9,12 +9,12 @@
   text-decoration: none;
 }
 
-.footer__  links_schedule:hover {
-    opacity: 80%;
+.links-footer__link_weather:hover {
+  opacity: 80%;
 }
 
-@media screen and (max-width: 544px) {
-  .footer__links_schedule {
+@media screen and (max-width: 544px){
+  .links-footer__link_weather {
     font-size: 24px;
     line-height: 24px;
   }

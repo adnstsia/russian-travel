@@ -1,4 +1,4 @@
-.footer__links {
+.links-footer {
   margin: 0;
   padding: 0;
   display: flex;
@@ -8,8 +8,8 @@
   align-items: flex-start;
 }
 
-@media screen and (max-width: 544px){
-  .footer__links {
+@media screen and (max-width: 544px) {
+  .links-footer {
     flex-direction: column;
     padding-bottom: 48px;
   }
