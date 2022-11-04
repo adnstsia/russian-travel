@@ -10,6 +10,7 @@
   min-height: 208px;
   text-align: left;
   color: white;
+  margin-bottom: 17px;
 }
 
 @media screen and (max-width: 896px){

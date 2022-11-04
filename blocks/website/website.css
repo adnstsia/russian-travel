@@ -1,4 +1,4 @@
-.place__website {
+.website {
   grid-area: website;
   display: grid;
   grid-template-columns: max-content;
@@ -11,7 +11,7 @@
 }
 
 @media screen and (max-width: 544px){
-  .place__website {
+  .website {
     margin: 0 16px 0 16px;
   }
 }

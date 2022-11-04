@@ -1,4 +1,4 @@
-.place__website_link {
+.website__link {
   font-family: 'Inter';
   font-size: 18px;
   line-height: 22px;
@@ -12,6 +12,6 @@
   transition: .5s;
 }
 
-.place__website_link:hover {
+.website__link:hover {
   opacity: 80%;
 }
