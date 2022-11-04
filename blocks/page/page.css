@@ -28,13 +28,7 @@
   max-width: 1280px;
   margin: 0 auto;
   background-color: #2A2C2F;
-  margin: auto;
   padding: 0;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  -webkit-text-size-adjust: 100%;
-  -ms-text-size-adjust: 100%;
-  -moz-text-size-adjust: 100%;
 }
 
 @media screen and (max-width: 1152px) {
