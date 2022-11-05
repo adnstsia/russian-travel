@@ -7,7 +7,6 @@
   font-weight: 400;
   min-width: 640px;
   max-width: 640px;
-  height: 72px;
   text-align: center;
   color: white;
 }
@@ -28,7 +27,6 @@
   .lead__subtitle {
     font-size: 16px;
     line-height: 20px;
-    height: 40px;
     min-width: 288px;
     max-width: 288px;
     margin-bottom: 32px;

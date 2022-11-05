@@ -7,7 +7,6 @@
   font-style: normal;
   font-weight: 900;
   width: 690px;
-  height: 58px;
   text-align: left;
   color: white;
 }
@@ -21,7 +20,6 @@
 @media screen and (max-width: 544px){
   .intro__title {
   width: 288px;
-  height: 70px;
   font-size: 32px;
   line-height: 35px;
   }

@@ -10,7 +10,9 @@
 }
 
 @media screen and (max-width: 544px) {
-  .footer__links_weather {
+  .footer__author {
     line-height: 14px;
+    padding-top: 12px;
+    margin: 0;
   }
 }

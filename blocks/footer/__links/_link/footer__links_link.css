@@ -1,4 +1,5 @@
-.links-footer__link_calendar {
+
+.footer__links_link {
   font-family: Inter;
   font-size: 16px;
   font-weight: 400;
@@ -9,13 +10,14 @@
   text-decoration: none;
 }
 
-.links-footer__link_calendar:hover {
+.footer__links_link:hover {
   opacity: 80%;
 }
 
 @media screen and (max-width: 544px){
-  .links-footer__link_calendar {
+  .footer__links_link {
     font-size: 24px;
     line-height: 24px;
+    padding-bottom: 32px;
   }
 }

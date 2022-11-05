@@ -2,11 +2,10 @@
   display: grid;
   grid-template-columns: minmax(460px, 460px) 1fr;
   grid-template-rows: fit-content(152px) minmax(460px, 460px);
-  grid-template-areas: 
+  grid-template-areas:
     'title website'
     'image paragraph';
   gap: 48px 40px;
-  overflow: hidden;
   margin-bottom: 80px;
   box-sizing: border-box;
 }
@@ -40,7 +39,7 @@
   .place {
     grid-template-columns: 1fr;
     grid-template-rows: fit-content(35px) minmax(min-content, max-content) 320px minmax(min-content, max-content);
-    grid-template-areas: 
+    grid-template-areas:
     'title'
     'website'
     'image'
