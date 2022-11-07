@@ -5,10 +5,11 @@
   font-size: 30px;
   line-height: 36px;
   font-weight: 400;
-  min-width: 640px;
+  width: 100%;
   max-width: 640px;
   text-align: center;
   color: white;
+  box-sizing: border-box;
 }
 
 @media screen and (max-width: 1152px) {
@@ -23,11 +24,10 @@
   }
 }
 
-@media screen and (max-width: 544px) {
+@media screen and (max-width: 720px) {
   .lead__subtitle {
     font-size: 16px;
     line-height: 20px;
-    min-width: 288px;
     max-width: 288px;
     margin-bottom: 32px;
   }

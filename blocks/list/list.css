@@ -2,7 +2,8 @@
   font-family: 'Inter';
   margin: 0;
   padding: 0;
-  width: 690px;
+  width: 100%;
+  max-width: 690px;
   list-style-type: none;
   font-size: 12px;
   line-height: 18px;
@@ -12,12 +13,13 @@
 
 @media screen and (max-width: 896px) {
   .list {
-    width: 720px;
+    max-width: 720px;
   }
 }
 
-@media screen and (max-width: 544px) {
+@media screen and (max-width: 720px) {
   .list {
-    width: 288px;
+    max-width: 288px;
   }
 }
+

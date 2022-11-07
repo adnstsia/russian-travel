@@ -11,6 +11,7 @@
   letter-spacing: 1.5px;
   text-transform: uppercase;
   color: white;
+  box-sizing: border-box;
 }
 
 @media screen and (max-width: 1152px){
@@ -26,7 +27,7 @@
   }
 }
 
-@media screen and (max-width: 544px){
+@media screen and (max-width: 720px){
   .lead__caption {
     padding-left: 16px;
   }

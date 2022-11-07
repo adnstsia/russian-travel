@@ -25,7 +25,7 @@
 @media screen and (max-width: 896px){
   .place {
     grid-template-columns: minmax(340px, 340px) 1fr;
-    grid-template-rows: fit-content(92px) minmax(340px, 441px);
+    grid-template-rows: fit-content(92px) min-content;
     margin-bottom: 73px;
     gap: 48px 28px;
   }
@@ -35,7 +35,7 @@
   }
 }
 
-@media screen and (max-width: 544px){
+@media screen and (max-width: 720px){
   .place {
     grid-template-columns: 1fr;
     grid-template-rows: fit-content(35px) minmax(min-content, max-content) 320px minmax(min-content, max-content);

@@ -14,7 +14,7 @@
   flex-direction: column;
 }
 
-@media screen and (max-width: 544px) {
+@media screen and (max-width: 720px) {
   .place__paragraph {
     padding: 0 16px 0 16px;
   }

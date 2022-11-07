@@ -14,7 +14,7 @@
   text-decoration: none;
 }
 
-@media screen and (max-width: 544px){
+@media screen and (max-width: 720px){
   .header__lang-link {
     width: 22px;
     font-size: 18px;
