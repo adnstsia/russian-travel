@@ -1,12 +1,10 @@
-.website__url-heading {
-  font-family: 'Inter';
+.place__website_url-heading {
   font-size: 12px;
   line-height: 12px;
   font-weight: 400;
   color: #AAAAAA;
   margin: 0;
   padding: 0;
-  align-self: end;
   letter-spacing: 2px;
   text-transform: uppercase;
 }

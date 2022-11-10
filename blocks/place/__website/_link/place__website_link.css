@@ -1,17 +1,15 @@
-.website__link {
-  font-family: 'Inter';
+.place__website_link {
   font-size: 18px;
   line-height: 22px;
   font-weight: 400;
   color: white;
   margin: 0;
   padding: 0;
-  align-self: end;
   text-decoration: underline;
   text-underline-offset: 4px;
   transition: .5s;
 }
 
-.website__link:hover {
+.place__website_link:hover {
   opacity: 80%;
 }

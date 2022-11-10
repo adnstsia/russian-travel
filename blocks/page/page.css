@@ -1,22 +1,3 @@
-
-@font-face {
-	src: url('../../fonts/Inter/static/Inter-Regular.ttf') format('truetype');
-  font-family: 'Inter';
-  font-weight: 400;
-}
-
-@font-face {
-	src: url('../../fonts/Inter/static/Inter-Bold.ttf') format('truetype');
-  font-family: 'Inter';
-  font-weight: 700;
-}
-
-@font-face {
-	src: url('../../fonts/Inter/static/Inter-Black.ttf') format('truetype');
-  font-family: 'Inter';
-  font-weight: 900;
-}
-
 .page {
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
