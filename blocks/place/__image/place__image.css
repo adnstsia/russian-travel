@@ -6,3 +6,10 @@
   object-fit: cover;
   display: grid;
 }
+
+@media screen and (max-width: 896px) {
+  .place__image {
+    max-height: 340px;
+  }
+}
+

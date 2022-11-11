@@ -15,6 +15,7 @@
     max-width: 896px;
     padding-left: 24px;
     padding-right: 24px;
+    padding-bottom: 48px;
   }
 }
 
@@ -22,7 +23,7 @@
 @media screen and (max-width: 720px){
   .header {
     max-width: 720px;
-    padding-bottom: 16px;
+    padding-top: 16px;
     padding-left: 16px;
     padding-right: 16px;
   }
