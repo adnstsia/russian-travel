@@ -4,6 +4,7 @@
   font-weight: 400;
   align-self: center;
   color: white;
+  text-decoration: none;
 }
 
 .header__lang-link:hover {

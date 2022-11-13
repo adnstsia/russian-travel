@@ -1,6 +1,6 @@
 .intro {
   margin-top: 88px;
-  margin-bottom: 76px;
+  margin-bottom: 92px;
   padding-left: 148px;
   padding-right: 148px;
   display: flex;
@@ -20,13 +20,16 @@
   .intro {
     padding-left: 24px;
     padding-right: 24px;
+    margin-bottom: 88px;
   }
 }
 
 @media screen and (max-width: 544px){
   .intro {
     margin-top: 64px;
+    margin-bottom: 64px;
     padding-left: 16px;
     padding-right: 16px;
+
   }
 }
