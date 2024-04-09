@@ -6,7 +6,7 @@
 
 ## <span style="color:3a79a6">**D**</span>escription
 
-This project is educational and tells the visitor about traveling through Russia.
+This project is educational and tells the visitor about movies, series and cartoons.
 
 *Link to GitHub Pages*: [https://adnstsia.github.io/watchWaves/](https://adnstsia.github.io/watchWaves/)
 
