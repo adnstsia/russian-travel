@@ -1,22 +1,21 @@
-# Проект: Путешествие по России
+# Project: watchWaves
 
-## **<span style="color:3a79a6">Обзор</span>**
-* Описание проекта
-* Применённые навыки и технологии + ссылка на GitHub Pages
+## **<span style="color:3a79a6">Overview</span>**
+* Project description
+* Applied skills and technologies + link to GitHub Pages
 
-## <span style="color:3a79a6">**О**</span>писание
+## <span style="color:3a79a6">**D**</span>escription
 
-Данный проект является учебным и рассказывает его посетителю о путешествии по России.
+This project is educational and tells the visitor about traveling through Russia.
 
-*Ссылка на GitHub Pages*: https://adnstsia.github.io/russian-travel/
+*Link to GitHub Pages*: [https://adnstsia.github.io/watchWaves/](https://adnstsia.github.io/watchWaves/)
 
-## <span style="color:3a79a6">**В**</span> этой работе я релизовала такие навыки и технологии как:
-- Flexbox-вёрстка
-- Grid-container
-- Позиционированние объектов
-- Работа с видео, iframe
-- Анимации и трансформации
-- Оформление кода по стандартам БЭМ
-- Организация файловой структуры по стандартам БЭМ - подход Nested
-- Адаптивная вёрстка(подход Desktop-first)
-
+## <span style="color:3a79a6">**I**</span>n this project, I implemented the following skills and technologies:
+- Flexbox layout
+- Grid container
+- Object positioning
+- Working with video, iframe
+- Animations and transformations
+- Code styling according to BEM standards
+- File structure organization according to BEM standards - Nested approach
+- Responsive design (Desktop-first approach)
